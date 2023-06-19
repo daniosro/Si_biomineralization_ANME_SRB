@@ -17,8 +17,8 @@ This directory includes the data files and code for the Osorio-Rodriguez et al. 
 * **`data`** 
 All raw data collected from the experiments and analytical measurements in this work. 
 
-* **`code`** 
-Files with the code for the modelling performed in this work.
+* **`templates`** 
+Notebooks with the code to visualize the data.
 
 ### Other Files
 There are some files which I consider to be mandatory for any project.
