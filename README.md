@@ -20,10 +20,6 @@ All raw data collected from the experiments and analytical measurements in this 
 * **`templates`** 
 Notebooks with the code to visualize the data.
 
-### Other Files
-
-1. **`LICENSE`**: 
-
 # License Information
 
 All creative works (code, figures, etc) are licensed under the [Creative
