@@ -1,0 +1,146 @@
+﻿ID,phase_original,phase,replicate,d13C_carb,d18O_carb,d13C_carb_sd,d18O_carb_sd,Source
+﻿100-110,Micrite,Micrite,,-34.93,-10.31,,,Loyd et al. (2016)
+130-140,Micrite,Micrite,,-37.75,-10,,,Loyd et al. (2016)
+190-200,Micrite,Micrite,,-35.03,-10.64,,,Loyd et al. (2016)
+20-30,Micrite,Micrite,,-36.4,-10.39,,,Loyd et al. (2016)
+230-240,Micrite,Micrite,,-36.47,-7.97,,,Loyd et al. (2016)
+250-260,Micrite,Micrite,,-35.41,-11.16,,,Loyd et al. (2016)
+310-320,Micrite,Micrite,,-41.35,-11.07,,,Loyd et al. (2016)
+320-2h,Micrite,Micrite,,-41.05,-0.89,,,Loyd et al. (2016)
+360-370,Micrite,Micrite,,-43.28,-11.09,,,Loyd et al. (2016)
+40-50,Micrite,Micrite,,-38.01,-9.6,,,Loyd et al. (2016)
+65-70,Micrite,Micrite,,-38.16,-11.33,,,Loyd et al. (2016)
+star 230-240,Micrite,Micrite,,-27.37,-11.1,,,Loyd et al. (2016)
+teepee hrm 210-220 ,Micrite,Micrite,,-40.35,-9.8,,,Loyd et al. (2016)
+teepee hrm 400-40,Micrite,Micrite,,-30.52,-11.17,,,Loyd et al. (2016)
+100-110fc,Fibrous cement,Fibrous cement,,-41.22,-8.6,,,Loyd et al. (2016)
+190-200fc,Fibrous cement,Fibrous cement,,-45.21,-7.57,,,Loyd et al. (2016)
+210-220fc,Fibrous cement,Fibrous cement,,-45.21,-6.28,,,Loyd et al. (2016)
+460-470fc,Fibrous cement,Fibrous cement,,-43.29,-8.09,,,Loyd et al. (2016)
+711.5 VI S 2,Equant spar,Equant cement,,-14.31,-12.09,,,Loyd et al. (2016)
+320-2 PS,Peloidal sparite,Biopelmicrite,,-44.75,-0.3,,,Loyd et al. (2016)
+704.5 1 PS,Peloidal sparite,Biopelmicrite,,-44.11,-1.5,,,Loyd et al. (2016)
+711 WI PS,Peloidal sparite,Biopelmicrite,,-37.01,-4.12,,,Loyd et al. (2016)
+711.5 VI PS 2,Peloidal sparite,Biopelmicrite,,-44.76,-1.04,,,Loyd et al. (2016)
+711.5 VI PS1,Peloidal sparite,Biopelmicrite,,-45.16,-1.55,,,Loyd et al. (2016)
+HRS 674.6 PS,Peloidal sparite,Biopelmicrite,,-35.16,-3.58,,,Loyd et al. (2016)
+a_1,micrite,Micrite,,-49.653,-1.048,,,Birgel et al. (2006)
+a_2,micrite,Micrite,,-49.661,-1.117,,,Birgel et al. (2006)
+a_3,micrite,Micrite,,-48.493,-1.085,,,Birgel et al. (2006)
+a_4,micrite,Micrite,,-48.568,-1.119,,,Birgel et al. (2006)
+a_5,micrite,Micrite,,-46.61,-1.186,,,Birgel et al. (2006)
+a_6,micrite,Micrite,,-46.568,-1.261,,,Birgel et al. (2006)
+a_7,micrite,Micrite,,-43.108,-0.346,,,Birgel et al. (2006)
+a_8,micrite,Micrite,,-45.339,-0.684,,,Birgel et al. (2006)
+b_1,banded/botryoidal cement,Botryoidal cement,,-40.461,-3.566,,,Birgel et al. (2006)
+b_2,banded/botryoidal cement,Botryoidal cement,,-45.445,-1.779,,,Birgel et al. (2006)
+b_3,banded/botryoidal cement,Botryoidal cement,,-42.315,-3.45,,,Birgel et al. (2006)
+b_4,banded/botryoidal cement,Botryoidal cement,,-40.395,-3.67,,,Birgel et al. (2006)
+b_5,banded/botryoidal cement,Botryoidal cement,,-22.077,-7.415,,,Birgel et al. (2006)
+b_6,banded/botryoidal cement,Botryoidal cement,,-38.617,-3.911,,,Birgel et al. (2006)
+b_7,banded/botryoidal cement,Botryoidal cement,,-13.239,-6.665,,,Birgel et al. (2006)
+b_8,banded/botryoidal cement,Botryoidal cement,,-35.693,-5.459,,,Birgel et al. (2006)
+b_9,banded/botryoidal cement,Botryoidal cement,,-36.476,-4.761,,,Birgel et al. (2006)
+b_10,banded/botryoidal cement,Botryoidal cement,,-25.331,-6.01,,,Birgel et al. (2006)
+b_11,banded/botryoidal cement,Botryoidal cement,,-40.301,-3.079,,,Birgel et al. (2006)
+b_12,banded/botryoidal cement,Botryoidal cement,,-44.31,-2.6,,,Birgel et al. (2006)
+b_13,banded/botryoidal cement,Botryoidal cement,,-44.249,-2.535,,,Birgel et al. (2006)
+c_1,ferroan calcite,Ferroan equant cement,,-28.979,-9.876,,,Birgel et al. (2006)
+c_2,ferroan calcite,Ferroan equant cement,,-17.533,-9.889,,,Birgel et al. (2006)
+c_3,ferroan calcite,Ferroan equant cement,,-20.205,-11.352,,,Birgel et al. (2006)
+d_1,yellow calcite,Yellow calcite,,-36.07,-3.406,,,Birgel et al. (2006)
+d_2,yellow calcite,Yellow calcite,,-35.593,-3.181,,,Birgel et al. (2006)
+d_3,yellow calcite,Yellow calcite,,-39.704,-2.043,,,Birgel et al. (2006)
+d_4,yellow calcite,Yellow calcite,,-31.73,-6.678,,,Birgel et al. (2006)
+d_5,yellow calcite,Yellow calcite,,-45.863,-2.513,,,Birgel et al. (2006)
+d_6,yellow calcite,Yellow calcite,,-42.682,-3.888,,,Birgel et al. (2006)
+d_7,yellow calcite,Yellow calcite,,-40.193,-4.017,,,Birgel et al. (2006)
+d_8,yellow calcite,Yellow calcite,,-41.991,-2.262,,,Birgel et al. (2006)
+d_9,yellow calcite,Yellow calcite,,-35.722,-3.55,,,Birgel et al. (2006)
+d_10,yellow calcite,Yellow calcite,,-37.569,-2.327,,,Birgel et al. (2006)
+d_11,yellow calcite,Yellow calcite,,-33.512,-4.98,,,Birgel et al. (2006)
+d_12,yellow calcite,Yellow calcite,,-43.212,-0.739,,,Birgel et al. (2006)
+e_1,microspar,Microspar recrystallization,,-19.087,-0.696,,,Birgel et al. (2006)
+e_2,microspar,Microspar recrystallization,,-18.001,-0.52,,,Birgel et al. (2006)
+e_3,microspar,Microspar recrystallization,,-20.901,-0.554,,,Birgel et al. (2006)
+e_4,microspar,Microspar recrystallization,,-18.284,-0.303,,,Birgel et al. (2006)
+e_5,microspar,Microspar recrystallization,,-18.687,-0.018,,,Birgel et al. (2006)
+e_6,microspar,Microspar recrystallization,,-25.22,-0.16,,,Birgel et al. (2006)
+e_7,microspar,Microspar recrystallization,,-23.323,-0.195,,,Birgel et al. (2006)
+a_1,Fe-rich and clear sparry calcites,Ferroan equant cement,,-14.5,-13,,,Kauffman et al. (1996)
+a_2,Fe-rich and clear sparry calcites,Ferroan equant cement,,-12,-12,,,Kauffman et al. (1996)
+a_3,Fe-rich and clear sparry calcites,Ferroan equant cement,,-18.5,-11.8,,,Kauffman et al. (1996)
+a_4,Fe-rich and clear sparry calcites,Ferroan equant cement,,-19,-11.5,,,Kauffman et al. (1996)
+a_5,Fe-rich and clear sparry calcites,Ferroan equant cement,,-14,-11.5,,,Kauffman et al. (1996)
+a_6,Fe-rich and clear sparry calcites,Ferroan equant cement,,-23,-8.5,,,Kauffman et al. (1996)
+a_7,Fe-rich and clear sparry calcites,Ferroan equant cement,,-18.5,-9,,,Kauffman et al. (1996)
+b_1,"Fibrous, isopachous calcite",Fibrous cement,,-35.5,-5.1,,,Kauffman et al. (1996)
+b_2,"Fibrous, isopachous calcite",Fibrous cement,,-40,-4.2,,,Kauffman et al. (1996)
+b_3,"Fibrous, isopachous calcite",Fibrous cement,,-41,-4.3,,,Kauffman et al. (1996)
+b_4,Botryoidal,Botryoidal cement,,-45.7,0.2,,,Kauffman et al. (1996)
+b_5,Botryoidal,Botryoidal cement,,-42,-1.2,,,Kauffman et al. (1996)
+b_6,Botryoidal,Botryoidal cement,,-40.5,-2,,,Kauffman et al. (1996)
+b_7,Botryoidal,Botryoidal cement,,-42,-2,,,Kauffman et al. (1996)
+BR4_1,,Biopelmicrite,a,-37.51345525,-9.288294779,0.030467195,0.049280941,This study
+BR4_1,,Pseudospar,b,-17.68985432,-11.85807213,0.040747529,0.036360846,This study
+BR4_1,,Biopelmicrite,c,-37.02830835,-9.727775511,0.036390628,0.054313902,This study
+BR4_1,,Pseudospar,a,-9.789529465,-11.63539876,0.064334629,0.090472371,This study
+BR4_1,,Pseudospar,b,-18.37648421,-12.23431738,0.038324637,0.075956859,This study
+BR4_1,,Botryoidal cement,a,-42.94555752,-6.459709505,0.020061018,0.035102627,This study
+BR4_1,,Botryoidal cement,b,-41.85898053,-6.24255018,0.038431758,0.063788931,This study
+BR4_1,,Botryoidal cement,c,-38.59511257,-9.825737713,0.034438754,0.078704264,This study
+BR4_1,,Yellow calcite,a,-34.96115098,-10.54866357,0.032733775,0.056377695,This study
+BR4_1,,Yellow calcite,b,-33.1993488,-10.07340024,0.022957086,0.0753807,This study
+BR4_1,,Yellow calcite,c,-39.29952037,-10.55652401,0.049287704,0.068536081,This study
+BR4_1,,Massive,a,-11.57492372,-12.3810847,0.05028944,0.063203595,This study
+BR4_1,,Massive,b,-12.18988291,-11.99017445,0.112808589,0.158517349,This study
+BR4_1,,Massive,c,-13.73846197,-13.13287128,0.038229933,0.053452731,This study
+BR1_8,,Biopelmicrite,a,-39.80065621,-1.691003341,0.015346914,0.054668191,This study
+BR1_8,,Biopelmicrite,b,-37.72813192,-2.691391007,0.055937465,0.063904225,This study
+BR1_8,,Biopelmicrite,c,-40.52328917,-2.700893927,0.0495101,0.078233624,This study
+BR1_8,,Pseudospar,a,-16.59108995,-12.29673162,0.051058246,0.04556863,This study
+BR1_8,,Pseudospar,b,-15.52687512,-12.3775651,0.040202612,0.056054537,This study
+BR1_8,,Pseudospar,c,-15.79343198,-12.01223061,0.014063349,0.034711109,This study
+BR1_8,,Massive,a,-36.5051458,-4.032945242,0.086645831,0.189555035,This study
+BR1_8,,Massive,b,-37.62906758,-4.72489862,0.050336644,0.097281522,This study
+BR1_8,,Massive,c,-19.08659436,-13.94273126,0.042762263,0.079680264,This study
+BR1_8,,Micrite,a,-36.36672407,-1.811960264,0.039215572,0.09675628,This study
+BR1_8,,Micrite,b,-40.88712139,-2.768587569,0.036765397,0.089965425,This study
+BR1_8,,Micrite,c,-38.85652613,-2.205920835,0.055256221,0.079563043,This study
+BR2_3,,Biopelmicrite,a,-34.39236963,-11.46974292,0.045457245,0.087234518,This study
+BR2_3,,Biopelmicrite,b,-34.82026942,-11.40908847,0.029698485,0.068209237,This study
+BR2_3,,Biopelmicrite,c,-34.46918362,-11.26924303,0.052770994,0.064272424,This study
+BR2_3,,Pseudospar,d,-10.49617348,-12.30963682,0.046693445,0.066955416,This study
+BR2_3,,Equant cement,a,-36.54204335,-10.81814762,0.029398129,0.077929455,This study
+BR2_3,,Equant cement,b,-40.88264896,-4.765256701,0.045611889,0.063006173,This study
+BR2_3,,Equant cement,c,-42.04346829,-5.11745135,0.044578582,0.07851433,This study
+BR2_3,,Yellow calcite,a,-38.55534639,-6.042565561,0.06007241,0.101852971,This study
+BR2_3,,Yellow calcite,b,-40.53132629,-5.745173042,0.030095681,0.083456742,This study
+BR2_3,,Yellow calcite,c,-39.18539502,-8.648968236,0.096295696,0.110757744,This study
+BR2_3,,Yellow calcite,d,-41.57661382,-4.141365372,0.028555988,0.044204072,This study
+BR2_1,,Biopelmicrite,a,-38.41345064,-7.156037129,0.049469968,0.025816661,This study
+BR2_1,,Biopelmicrite,b,-31.70547748,-10.20525738,0.071679844,0.09960352,This study
+BR2_1,,Biopelmicrite,c,-29.47177084,-9.475721736,0.037903752,0.069188952,This study
+BR2_1,,Pseudospar,a,-15.54396618,-11.55195998,0.064675687,0.075856407,This study
+BR2_1,,Pseudospar,b,-19.31897759,-10.94959952,0.039704464,0.063580657,This study
+BR2_1,,Micrite,a,-41.76670695,-4.43519974,0.035776311,0.061697065,This study
+BR2_1,,Micrite,b,-40.27326251,-6.539558849,0.023349399,0.050663377,This study
+BR2_1,,Micrite,c,-36.39893531,-7.698138583,0.03325449,0.06045338,This study
+BR2_1,,Massive,a,-22.11611039,-11.34168476,0.042353014,0.082925837,This study
+BR2_1,,Massive,b,-30.4126869,-8.938900117,0.079595505,0.055119819,This study
+BR2_1,,Botryoidal cement,a,-43.67550264,-3.726783442,0.038062814,0.073375745,This study
+BR2_1,,Botryoidal cement,b,-41.99320089,-4.308598448,0.063450331,0.087091108,This study
+BR1_1,,Micrite,a,-43.25992669,-0.734149263,0.037138629,0.073901962,This study
+BR1_1,,Micrite,b,-43.29834977,-1.416051601,0.059395099,0.074765931,This study
+BR1_1,,Micrite,c,-42.00499745,-1.444402026,0.031745516,0.05343168,This study
+BR1_1,,Pseudospar,a,-25.8442726,-8.532123163,0.040810538,0.081332821,This study
+BR1_1,,Pseudospar,b,-16.71688125,-11.40997829,0.034123957,0.084159076,This study
+BR1_1,,Botryoidal cement,a,-44.01164841,-3.348586471,0.01858763,0.061605826,This study
+BR1_1,,Botryoidal cement,b,-40.10361675,-4.364840183,0.042476464,0.055421115,This study
+BR1_1,,Botryoidal cement,c,-29.33729006,-8.222334506,0.03768215,0.079957975,This study
+BR1_1,,Yellow calcite,a,-44.45845715,-0.925141602,0.037474806,0.061018667,This study
+BR1_1,,Yellow calcite,b,-44.99604322,-1.078601193,0.038797909,0.047943833,This study
+BR1_1,,Yellow calcite,c,-37.28098092,-4.619994012,0.048208171,0.059076222,This study
+BR1_1,,Equant cement,a,-39.76803272,-5.431252339,0.039244249,0.076024667,This study
+BR1_1,,Equant cement,b,-44.72955332,-3.145312773,0.054002315,0.098630342,This study
+BR1_1,,Equant cement,c,-45.74484388,-2.641317963,0.046339628,0.059601687,This study

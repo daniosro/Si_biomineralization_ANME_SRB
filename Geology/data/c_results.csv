@@ -1,0 +1,172 @@
+﻿ID_1,ID_extra,ID_2,ID_3,plot_category,d13c,2sd_d13c,sd_d13c,pyr,aggregates,phase,locality,date,category,extracted,instrument
+br18,,bpyr,Ancient seep carbonate,Ancient seep carbonate,-13.82603449,2.398260466,1.199130233,y,n,Spar,Tepee Buttes,2019_03,Organic matter,,
+br18,,c,Ancient seep carbonate,Ancient seep carbonate,-39.5064012,1.053275895,0.526637948,n,n,Peloidal micrite,Tepee Buttes,2019_03,Organic matter,,
+br18,,l,Ancient seep carbonate,Ancient seep carbonate,-34.16710418,1.283999784,0.641999892,n,n,Peloidal micrite,Tepee Buttes,2019_03,Organic matter,,
+br18,,z,Ancient seep carbonate,Ancient seep carbonate,-45.5013931,1.302631139,0.65131557,n,n,Micrite,Tepee Buttes,2019_03,Organic matter,,
+br18,,j,Ancient seep carbonate,Ancient seep carbonate,-39.46705712,3.475704897,1.737852449,n,n,Peloidal micrite,Tepee Buttes,2019_03,Organic matter,,
+br18,,k,Ancient seep carbonate,Ancient seep carbonate,-42.89801625,1.865273665,0.932636833,n,n,Micrite,Tepee Buttes,2019_03,Organic matter,,
+br18,,a,Ancient seep carbonate,Ancient seep carbonate,-31.4830016,1.658990395,0.829495198,n,n,Spar,Tepee Buttes,2019_03,Organic matter,,
+br18,,hpyr,Ancient seep carbonate,Ancient seep carbonate,-54.29003464,2.312720856,1.156360428,y,n,Micrite,Tepee Buttes,2019_03,Organic matter,,
+br18,,w,Ancient seep carbonate,Ancient seep carbonate,-49.28288885,0.693914221,0.346957111,n,n,Peloidal micrite,Tepee Buttes,2019_03,Organic matter,,
+br18,,v,Ancient seep carbonate,Ancient seep carbonate,-61.71637751,4.975672985,2.487836493,n,n,Micrite,Tepee Buttes,2019_03,Organic matter,,
+br18,,i,Ancient seep carbonate,Ancient seep carbonate,-55.46709397,2.241338921,1.120669461,n,n,Peloidal micrite,Tepee Buttes,2019_03,Organic matter,,
+br18,,h,Ancient seep carbonate,Ancient seep carbonate,-58.26089388,1.698020152,0.849010076,n,n,Micrite,Tepee Buttes,2019_03,Organic matter,,
+br18,,epyr,Ancient seep carbonate,Ancient seep carbonate,-56.90993788,2.506453071,1.253226536,y,n,Micrite,Tepee Buttes,2019_03,Organic matter,,
+br11,,3,Ancient seep carbonate,Ancient seep carbonate,-42.15465568,0.551578769,0.275789385,n,n,Micrite,Tepee Buttes,2019_03,Organic matter,,
+br11,,2,Ancient seep carbonate,Ancient seep carbonate,-43.91728716,0.639913559,0.31995678,n,n,Micrite,Tepee Buttes,2019_03,Organic matter,,
+br11,,1,Ancient seep carbonate,Ancient seep carbonate,-26.115196,0.988826098,0.494413049,n,n,Spar,Tepee Buttes,2019_03,Organic matter,,
+br11,,5,Ancient seep carbonate,Ancient seep carbonate,-33.90444996,0.433565484,0.216782742,n,n,Peloidal micrite,Tepee Buttes,2019_03,Organic matter,,
+br11,,10,Ancient seep carbonate,Ancient seep carbonate,-16.10132079,1.383198074,0.691599037,n,n,Spar,Tepee Buttes,2019_03,Organic matter,,
+br11,,8,Ancient seep carbonate,Ancient seep carbonate,-34.99555518,0.388625079,0.19431254,n,n,Micrite,Tepee Buttes,2019_03,Organic matter,,
+br11,,4,Ancient seep carbonate,Ancient seep carbonate,-34.40946699,0.437722586,0.218861293,n,n,Micrite,Tepee Buttes,2019_03,Organic matter,,
+br11,,9,Ancient seep carbonate,Ancient seep carbonate,-39.99331127,0.450353666,0.225176833,n,n,Peloidal micrite,Tepee Buttes,2019_03,Organic matter,,
+br11,,11,Ancient seep carbonate,Ancient seep carbonate,-22.22071839,1.270644343,0.635322172,n,n,Spar,Tepee Buttes,2019_03,Organic matter,,
+br11,,7,Ancient seep carbonate,Ancient seep carbonate,-35.99643281,0.442131239,0.22106562,n,n,Micrite,Tepee Buttes,2019_03,Organic matter,,
+t870hr,,gpyr,Modern seep carbonate,Ancient seep carbonate,-28.96803035,1.248738445,0.624369223,y,n,Micrite,Hydrate Ridge,2019_03,Micrite/peloid,om,
+t870hr,,fpyr,Modern seep carbonate,Ancient seep carbonate,-32.96814345,1.12686092,0.56343046,y,n,Micrite,Hydrate Ridge,2019_03,Micrite/peloid,om,
+t870hr,,a,Modern seep carbonate,Ancient seep carbonate,-32.94749344,0.267501791,0.133750896,n,n,Spar,Hydrate Ridge,2019_03,Spar,om,
+t870hr,,h,Modern seep carbonate,Ancient seep carbonate,-24.3319696,1.7920628,0.8960314,n,n,Spar,Hydrate Ridge,2019_03,Spar,om,
+t870hr,,apyr,Modern seep carbonate,Ancient seep carbonate,-33.65949116,0.920311514,0.460155757,y,n,Spar,Hydrate Ridge,2019_03,Spar,om,
+t870hr,,b,Modern seep carbonate,Ancient seep carbonate,-28.37780872,0.915670923,0.457835462,n,n,Spar,Hydrate Ridge,2019_03,Spar,om,
+t870hr,,k,Modern seep carbonate,Ancient seep carbonate,-33.32535052,0.910919812,0.455459906,n,n,Micrite,Hydrate Ridge,2019_03,Micrite/peloid,om,
+t870hr,,e,Modern seep carbonate,Ancient seep carbonate,-30.0206302,0.911519454,0.455759727,n,n,Spar,Hydrate Ridge,2019_03,Spar,om,
+t870hr,,i,Modern seep carbonate,Ancient seep carbonate,-10.30520584,2.17345088,1.08672544,n,n,Micrite,Hydrate Ridge,2019_03,Micrite,om,
+t870hr,,c,Modern seep carbonate,Ancient seep carbonate,-32.20416006,1.871600959,0.93580048,n,n,Spar,Hydrate Ridge,2019_03,Spar,om,
+t870hr,,d,Modern seep carbonate,Ancient seep carbonate,-23.22575543,1.384761945,0.692380973,n,n,Micrite,Hydrate Ridge,2019_03,Micrite/peloid,om,
+t872hr,,c,Modern seep carbonate,Ancient seep carbonate,-28.36031208,0.298069488,0.149034744,n,n,Micrite,Hydrate Ridge,2019_03,Micrite/peloid,om,
+t872hr,,a,Modern seep carbonate,Ancient seep carbonate,-33.66587737,0.42226573,0.211132865,n,n,Spar,Hydrate Ridge,2019_03,Spar,om,
+t872hr,,i,Modern seep carbonate,Ancient seep carbonate,-31.56789683,0.722058368,0.361029184,n,n,Micrite,Hydrate Ridge,2019_03,Micrite/peloid,om,
+t872hr,,b,Modern seep carbonate,Ancient seep carbonate,-38.28579639,1.405156155,0.702578078,n,n,Micrite,Hydrate Ridge,2019_03,Micrite/peloid,om,
+t872hr,,dpyr,Modern seep carbonate,Ancient seep carbonate,-22.90280823,1.367424144,0.683712072,n,n,Micrite,Hydrate Ridge,2019_03,Micrite/peloid,om,
+t872hr,,g,Modern seep carbonate,Ancient seep carbonate,-15.27879795,0.6772174,0.3386087,n,n,Micrite,Hydrate Ridge,2019_03,Micrite/peloid,om,
+t872hr,,f,Modern seep carbonate,Ancient seep carbonate,-14.46379361,0.961320609,0.480660305,n,n,Spar,Hydrate Ridge,2019_03,Spar,om,
+br41,,g,Ancient seep carbonate,Ancient seep carbonate,-53.82334203,1.926203018,0.963101509,n,n,Peloidal micrite,Tepee Buttes,2019_03,Organic matter,,
+br41,,i,Ancient seep carbonate,Ancient seep carbonate,-42.92098109,0.67289519,0.336447595,n,n,Yellow calcite,Tepee Buttes,2019_03,Organic matter,,
+br41,,h2,Ancient seep carbonate,Ancient seep carbonate,-68.10848245,1.305352725,0.652676363,n,n,Peloidal micrite,Tepee Buttes,2019_03,Organic matter,,
+br41,,a,Ancient seep carbonate,Ancient seep carbonate,-82.87317576,1.652271357,0.826135679,n,n,Peloidal micrite,Tepee Buttes,2019_03,Organic matter,,
+br41,,b,Ancient seep carbonate,Ancient seep carbonate,-67.6520952,3.710442821,1.855221411,n,n,Peloidal micrite,Tepee Buttes,2019_03,Organic matter,,
+br41,,c2,Ancient seep carbonate,Ancient seep carbonate,-65.76843493,2.337093662,1.168546831,n,n,Peloidal micrite,Tepee Buttes,2019_03,Organic matter,,
+br41,,c,Ancient seep carbonate,Ancient seep carbonate,-52.55157661,1.846934492,0.923467246,n,n,Yellow calcite,Tepee Buttes,2019_03,Organic matter,,
+br41,,bpyr,Ancient seep carbonate,Ancient seep carbonate,-48.2244449,3.598606518,1.799303259,y,n,Yellow calcite,Tepee Buttes,2019_03,Organic matter,,
+br41,,cpyr,Ancient seep carbonate,Ancient seep carbonate,-76.68719681,3.435105801,1.717552901,n,n,Spar,Tepee Buttes,2019_03,Organic matter,,
+br41,,apyr,Ancient seep carbonate,Ancient seep carbonate,-57.85356347,2.596859761,1.298429881,y,n,Peloidal micrite,Tepee Buttes,2019_03,Organic matter,,
+br41,,j,Ancient seep carbonate,Ancient seep carbonate,-64.64916658,2.97259251,1.486296255,n,n,Peloidal micrite,Tepee Buttes,2019_03,Organic matter,,
+br41,,jb,Ancient seep carbonate,Ancient seep carbonate,-76.52125505,5.226588376,2.613294188,n,n,Peloidal micrite,Tepee Buttes,2019_03,Organic matter,,
+BC4,,3,Ancient seep carbonate,Ancient seep carbonate,-22.19541082,0.934547271,0.467273636,,y,Spar,Bear Creek,2020_11,Spar,,
+BC4,,26,Ancient seep carbonate,Ancient seep carbonate,-23.11206268,1.143390509,0.571695255,,y,Spar,Bear Creek,2020_11,Spar,,
+BC4,,45,Ancient seep carbonate,Ancient seep carbonate,-30.96037128,0.840116461,0.420058231,,y,Spar,Bear Creek,2020_11,Spar,,
+BC4,,20,Ancient seep carbonate,Ancient seep carbonate,-25.58013174,1.097125752,0.548562876,,y,Spar,Bear Creek,2020_11,Spar,,
+TB2S1B,,5,Ancient seep carbonate,Ancient seep carbonate,-32.78915711,1.622975801,0.811487901,,y,Calcite vein,Tepee Buttes,2020_11,Vein,,
+TB2S1B,,2,Ancient seep carbonate,Ancient seep carbonate,-28.19326109,1.232703988,0.616351994,,y,Calcite vein,Tepee Buttes,2020_11,Vein,,
+TB2S1B,,4,Ancient seep carbonate,Ancient seep carbonate,-25.91876608,1.025269199,0.5126346,,y,Peloidal micrite,Tepee Buttes,2020_11,Micrite/peloid,,
+TB2S1B,,8,Ancient seep carbonate,Ancient seep carbonate,-37.35240791,1.092959718,0.546479859,,y,Spar,Tepee Buttes,2020_11,Spar,,
+TB2S1B,,7,Ancient seep carbonate,Ancient seep carbonate,-23.26306933,1.051588748,0.525794374,,y,Spar,Tepee Buttes,2020_11,Spar,,
+TB2S1B,,16,Ancient seep carbonate,Ancient seep carbonate,-29.36418704,1.915549115,0.957774558,,y,Spar,Tepee Buttes,2020_11,Spar,,
+TB2S1B,,14,Ancient seep carbonate,Ancient seep carbonate,-28.58669411,1.175423665,0.587711833,,y,Spar,Tepee Buttes,2020_11,Spar,,
+TB2S1B,,15,Ancient seep carbonate,Ancient seep carbonate,-26.11,1,0.5,,y,Spar,Tepee Buttes,2020_11,Spar,,
+TB2S1B,,1,Ancient seep carbonate,Ancient seep carbonate,-36.02,0.9,0.45,,y,Peloidal micrite,Tepee Buttes,2020_11,Micrite/peloid,,
+PH1A,,10,Ancient seep carbonate,Ancient seep carbonate,-27.68009715,1.47617754,0.73808877,,y,Gypsum vein,Panoche Hills,2020_11,Vein,,
+PH1A,,9,Ancient seep carbonate,Ancient seep carbonate,-30.73209914,1.371662625,0.685831313,,y,Gypsum vein,Panoche Hills,2020_11,Vein,,
+PH1A,,8,Ancient seep carbonate,Ancient seep carbonate,-36.73218312,1.168783267,0.584391634,,y,Layered micrite,Panoche Hills,2020_11,Micrite/peloid,,
+PH1A,,13,Ancient seep carbonate,Ancient seep carbonate,-34.32826802,0.96213293,0.481066465,,y,Gypsum vein,Panoche Hills,2020_11,Vein,,
+PH1A,,12,Ancient seep carbonate,Ancient seep carbonate,-33.41352042,1.29799645,0.648998225,,y,Gypsum vein,Panoche Hills,2020_11,Vein,,
+PH1A,,16,Ancient seep carbonate,Ancient seep carbonate,-38.9115861,1.512765777,0.756382889,,y,Layered micrite,Panoche Hills,2020_11,Micrite/peloid,,
+PH1A,,18,Ancient seep carbonate,Ancient seep carbonate,-33.0200356,1.156863504,0.578431752,,y,Layered micrite,Panoche Hills,2020_11,Micrite/peloid,,
+PH1A,,17,Ancient seep carbonate,Ancient seep carbonate,-30.05841354,1.933785907,0.966892954,,y,Layered micrite,Panoche Hills,2020_11,Micrite/peloid,,
+10860,c,B_11u,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-79.04337709,2.168475394,1.084237697,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,B_1DR,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-44.85534952,2.282585004,1.141292502,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,B_1LR,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-61.36578759,2.15305072,1.07652536,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,B_Nc,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-71.06260283,2.182251236,1.091125618,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,B_7,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-72.93384311,2.192678202,1.096339101,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,B_3r,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-58.56429212,2.160103192,1.080051596,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,B_5u,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-26.92967538,2.105670014,1.052835007,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,B_10a,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-90.91100982,2.194021034,1.097010517,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10926,c,2_11,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-26.93785175,2.336210472,1.168105236,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10926,c,2_3,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-39.19607779,2.108451882,1.054225941,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10926,c,2_9,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-47.02145306,2.175836956,1.087918478,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10926,c,4_4,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-53.00917664,2.181968892,1.090984446,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10926,c,4_5,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-87.6480918,2.171245496,1.085622748,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10926,c,4_9,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-48.52604009,2.220309986,1.110154993,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10926,c,4_14R,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-46.82912399,2.18825474,1.09412737,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10926,c,4_11D,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-57.88951547,2.170749048,1.085374524,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,2_NR,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-89.84332563,2.131738436,1.065869218,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,2_NL,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-66.85174707,2.300163204,1.150081602,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,2_12U,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-88.75535703,2.559410408,1.279705204,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,2_12R,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-50.66170794,2.141289346,1.070644673,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,2_11,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-45.9722881,1.999877122,0.999938561,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,2_11R,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-51.78755973,2.144001576,1.072000788,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,2_6,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-40.54248505,1.927361126,0.963680563,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,2_3,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-47.20211303,2.229051854,1.114525927,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,2_9,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-54.36943528,2.206975588,1.103487794,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,2_14R,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-34.78536475,2.189150776,1.094575388,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,2_0,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-37.76236843,2.153158304,1.076579152,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,2_15,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-33.01024648,2.204431454,1.102215727,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,2_13A,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-51.24706166,2.247303332,1.123651666,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,1_11,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-29.9877776,2.245420236,1.122710118,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,1_8U,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-31.94781313,2.204428428,1.102214214,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+10860,c,1_10,Modern seep carbonate,"Confirmed by FISH, extracted from modern seep carbonate",-38.44200887,2.228900908,1.114450454,,y,,"Jaco Scar. Confirmed by FISH, extracted",2021_03,,y,NanoSIMS
+TB5S1,,3,Ancient seep carbonate,Ancient seep carbonate,-36.37665092,1.957798442,0.978899221,,y,,Tepee Buttes,2021_03,,n,NanoSIMS
+TB5S1,,4,Ancient seep carbonate,Ancient seep carbonate,-36.73893706,2.381615782,1.190807891,,y,,Tepee Buttes,2021_03,,n,NanoSIMS
+TB5S1,,12,Ancient seep carbonate,Ancient seep carbonate,-28.4383664,1.538348858,0.769174429,,y,,Tepee Buttes,2021_03,,n,NanoSIMS
+TB5S1,,9,Ancient seep carbonate,Ancient seep carbonate,-24.70717293,1.772433043,0.886216522,,y,,Tepee Buttes,2021_03,,n,NanoSIMS
+TB5S1,,KD,Ancient seep carbonate,Ancient seep carbonate,-25.24103836,1.999884127,0.999942063,,y,,Tepee Buttes,2021_03,,n,NanoSIMS
+TB5S1,,OD,Ancient seep carbonate,Ancient seep carbonate,-32.63643602,1.648565708,0.824282854,,y,,Tepee Buttes,2021_03,,n,NanoSIMS
+TB5S1,,N,Ancient seep carbonate,Ancient seep carbonate,-15.05944533,1.9,0.948819322,,y,,Tepee Buttes,2021_03,,n,NanoSIMS
+TB5S1,,KU,Ancient seep carbonate,Ancient seep carbonate,-19.15038942,1.4,0.690095316,,y,,Tepee Buttes,2021_03,,n,NanoSIMS
+TB5S1,,IL,Ancient seep carbonate,Ancient seep carbonate,-21.35345457,1.7,0.825918836,,y,,Tepee Buttes,2021_03,,n,NanoSIMS
+TB5S1,,10,Ancient seep carbonate,Ancient seep carbonate,-12.94092491,1,0.494474294,,y,,Tepee Buttes,2021_03,,n,NanoSIMS
+TB5S1,,8,Ancient seep carbonate,Ancient seep carbonate,-21.21683942,2.3,1.136190446,,y,,Tepee Buttes,2021_03,,n,NanoSIMS
+TB5S1,,7L,Ancient seep carbonate,Ancient seep carbonate,-22.70980307,2.4,1.181948458,,y,,Tepee Buttes,2021_03,,n,NanoSIMS
+10860,c,8,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-52.08565584,1.733693442,0.866846721,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,8b,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-57.07056417,1.377184316,0.688592158,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,21,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-65.75917283,0.649415457,0.324707728,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,20,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-37.1433534,0.857632342,0.428816171,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,3,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-42.92094317,1.327529953,0.663764976,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,5,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-43.34301624,1.649021767,0.824510884,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,6,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-50.84987944,1.43325761,0.716628805,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,7,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-38.32596215,1.549887993,0.774943996,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,23,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-90.30711227,2.901270114,1.450635057,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,24,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-83.92958209,2.842644933,1.421322467,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,4,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-56.32961447,1.115743025,0.557871512,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,9b,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-57.26615787,1.955517572,0.977758786,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,26,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-41.15798584,0.505610368,0.252805184,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,27,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-32.89274008,0.630087964,0.315043982,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,1,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-52.82819959,1.40571094,0.70285547,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,10,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-45.47941506,1.726533641,0.863266821,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,11,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-101.9692371,1.290412358,0.645206179,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,12,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-46.6357856,1.429441065,0.714720532,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,14,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-43.41289345,0.523569561,0.26178478,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,13,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-42.57224438,0.662451805,0.331225903,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,17,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-45.51333387,0.705922889,0.352961445,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,16,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-36.561445,1.123375624,0.561687812,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,15,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-51.91754556,0.962295146,0.481147573,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10860,c,18,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-58.15754408,0.881440017,0.440720009,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10926,c,25,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-67.42702356,3.733026935,1.866513468,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10926,c,27,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-36.98144653,3.301505175,1.650752588,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10926,c,1,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-55.27422314,2.408977308,1.204488654,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10926,c,28,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-54.87869901,2.181589805,1.090794903,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10926,c,3,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-78.55405621,3.19804873,1.599024365,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10926,c,32,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-47.14773662,4.867189071,2.433594536,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10926,c,5,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-31.41096171,1.621470376,0.810735188,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10926,c,33,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-49.24016781,4.418442891,2.209221445,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10926,c,34,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-51.62267962,3.175125984,1.587562992,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10926,c,35,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-65.17482272,2.803187161,1.401593581,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10926,c,15,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-42.03086936,2.068907692,1.034453846,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10926,c,31,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-57.03743024,1.070877562,0.535438781,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,SIMS
+10926,c,11,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-91.72498988,1.245273422,0.622636711,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,NanoSIMS
+10926,c,19,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-52.93212384,1.173187901,0.58659395,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,NanoSIMS
+10926,c,22,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-70.97430177,3.011968808,1.505984404,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,NanoSIMS
+10926,c,23,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-61.74338248,1.270913162,0.635456581,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,NanoSIMS
+10926,c,4,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-67.31684664,1.69966928,0.84983464,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,NanoSIMS
+10926,c,1,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-57.88719852,1.634810868,0.817405434,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,NanoSIMS
+10926,c,29,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-46.17403289,1.498162871,0.749081435,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,NanoSIMS
+10926,c,3,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-52.8809721,1.093661644,0.546830822,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,NanoSIMS
+10860,,31,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-71.72446986,1.114672468,0.557336234,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,NanoSIMS
+10860,,32,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-50.67316564,1.076866435,0.538433218,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,NanoSIMS
+10860,,15,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-77.0918019,1.105210725,0.552605362,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,NanoSIMS
+10860,,16,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-59.83500035,1.03540517,0.517702585,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,NanoSIMS
+10860,,27,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-30.5350052,1.272522487,0.636261244,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,NanoSIMS
+10860,,28,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-27.22728083,1.251262604,0.625631302,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,NanoSIMS
+10860,,1,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-64.34329688,1.033061066,0.516530533,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,NanoSIMS
+10860,,5,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-58.19229939,1.91271431,0.956357155,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,NanoSIMS
+10860,,6,Modern seep carbonate,Confirmed by FISH in modern seep carbonate,-34.85564772,1.262562168,0.631281084,,y,,"Jaco Scar. Confirmed by FISH, in situ",2022_11,Micrite/peloid,n,NanoSIMS
