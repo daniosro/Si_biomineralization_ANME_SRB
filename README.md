@@ -3,7 +3,8 @@
 The repository is split into two main directories:
 
 ### **`PNAS`**
-This directory includes the data files and code for the Osorio-Rodriguez et al. (2023) paper in review at PNAS.
+This directory includes the data files and code for the following paper:
+Osorio-Rodriguez, D., Metcalfe, K. S., McGlynn, S. E., Yu, H., Dekas, A. E., Ellisman, M., ... & Orphan, V. J. (2023). Microbially induced precipitation of silica by anaerobic methane-oxidizing consortia and implications for microbial fossil preservation. Proceedings of the National Academy of Sciences, 120(51), e2302156120.
 
 * **`data`** 
 All raw data collected from the experiments and analytical measurements in this work:
