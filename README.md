@@ -30,7 +30,7 @@ This directory includes the data files and code for the Osorio-Rodriguez et al. 
 * **`data`** 
 All raw data collected from the analytical measurements in this work:
 
-1. c_results: Secondary-ion mass spectrometry (SIMS) data for the C siotope compositions of modern ANME-SRB aggregates in situ and extracted from seep carbonates, confirmed with FISH, and purported aggregates in ancient methane seep carbonates.
+1. c_results: Secondary-ion mass spectrometry (SIMS) data for the C isotope compositions of modern ANME-SRB aggregates in situ and extracted from seep carbonates, confirmed with FISH, and purported aggregates in ancient methane seep carbonates.
 
 2. EDS_spectra_1: Energy-dispersive X-ray spectroscopy (EDS) data for confirmed and purported ANME-SRB aggregates.
 
